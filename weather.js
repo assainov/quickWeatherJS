@@ -1,3 +1,4 @@
+// Weather object fetches the weather with an API
 class Weather {
     constructor() {
         this.APIkey = 'dd958a4aeeb73ff8cba589c22f19d901';
@@ -13,8 +14,10 @@ class Weather {
 
 }
 
+//Local time uses Geonames to fetch current time, sunrise and sunset of the city
 class LocalTime {
     constructor() {
+        // username to access API
         this.username = 'assainov';
     }
     async getTime(lat, long) {
