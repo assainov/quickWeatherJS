@@ -5,4 +5,4 @@
 ### Technologies used: ES6, OOP, fetch API, async await, BootSwatch theme, bootstrap etc.
 ### API used: OpenWeatherMap(http://api.openweathermap.org), Geonames (http://api.geonames.org)
 
-![Quick Weather JS](screenshot.jpg "Quick Weather JS")
+![Quick Weather JS](screenshot.JPG "Quick Weather JS")
